@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stock-twit-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/stock-twit-app/static/js/main.1dfb3b96.chunk.js",
+    "main.js.map": "/stock-twit-app/static/js/main.1dfb3b96.chunk.js.map",
+    "runtime-main.js": "/stock-twit-app/static/js/runtime-main.91bf2f14.js",
+    "runtime-main.js.map": "/stock-twit-app/static/js/runtime-main.91bf2f14.js.map",
+    "static/js/2.0abefe94.chunk.js": "/stock-twit-app/static/js/2.0abefe94.chunk.js",
+    "static/js/2.0abefe94.chunk.js.map": "/stock-twit-app/static/js/2.0abefe94.chunk.js.map",
+    "index.html": "/stock-twit-app/index.html",
+    "precache-manifest.6c2b524602c7064f9ffed610f2b98188.js": "/stock-twit-app/precache-manifest.6c2b524602c7064f9ffed610f2b98188.js",
+    "service-worker.js": "/stock-twit-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/stock-twit-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0abefe94.chunk.js.LICENSE.txt": "/stock-twit-app/static/js/2.0abefe94.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/stock-twit-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91bf2f14.js",
+    "static/js/2.0abefe94.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1dfb3b96.chunk.js"
+  ]
+}
